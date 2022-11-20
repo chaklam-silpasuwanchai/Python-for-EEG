@@ -12,6 +12,7 @@ Datasets:  P300 signal
 03. Long short-term memory
 
 Datasets:  Stress
+
 04. Analyzing alpha, beta, gamma, asymmetry
 
 ## Datasets
