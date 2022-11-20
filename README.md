@@ -1,6 +1,6 @@
 # Python-For-EEG
 
-Note:  On progress.   Don't fork yet.  Once I have time, I will complete this for good, and will leave this note.
+*Note:  On progress.   Don't fork yet.  Once I have time, I will complete this for good, and will leave this note.*
 
 Here is a simple repository in which I demonstrate how to perform DL modeling on EEG signal.  Topics covered:
 
