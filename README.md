@@ -26,7 +26,7 @@ Datasets:  Motor Imagery (TBD)
 
 ## Datasets
 
-All datasets can be downloaded at:  TBD
+All datasets can be downloaded at:  [Google Drive](https://drive.google.com/drive/folders/1q_UbAIP1yPCkIjYCMIaJWG2cBn0K4nfa?usp=sharing)
 
 1. P300:  This is my personal P300 signal I acquired through my OpenBCI headset while visually attending to 36 alphabetical targets.  When the flash flickers at the target I am looking at, there will be a signal rise at 300ms after the stimulus onset.   In the dataset, the columns are timestamps (128 samples per second), 16 channels of 'Fp1', 'Fp2', 'F7', 'F3', 'F4', 'F8', 'C3', 'Cz', 'C4', 'T5', 'P3', 'P4', 'T6', 'POz', 'O1', 'O2', and the marker indicating the events.  The marker format will be explained more in the notebook.
 
