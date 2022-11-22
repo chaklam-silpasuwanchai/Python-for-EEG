@@ -12,7 +12,7 @@ Here is a simple repository in which I demonstrate how to perform DL modeling on
 
 **Frequency-Based** [Datasets:  Stress and SSVEP]
 3. 2-dimensional convolution
-4.  Canonical correlation analysis
+4. Canonical correlation analysis
 
 **Component-Based** [Datasets:  Motor Imagery (TBD)]
 5. Common spatial pattern analysis
