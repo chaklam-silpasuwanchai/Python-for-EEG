@@ -9,18 +9,17 @@ Here is a simple repository in which I demonstrate how to perform DL modeling on
 **Time-Based** 
 [Datasets:  P300 signal]
 01. 1-dimensional convolution
-02. 2-dimensional convolution
-03. Long short-term memory
+02. Long short-term memory
 
 **Frequency-Based** 
 [Datasets:  Stress (TBD)]
-04. Analyzing alpha, beta, gamma, asymmetry
+03. 2-dimensional convolution
 [Datasets:  SSVEP (TBD)]
-05. Canonical correlation analysis
+04. Canonical correlation analysis
 
 **Component-Based**
 [Datasets:  Motor Imagery (TBD)]
-06. Common spatial pattern analysis
+05. Common spatial pattern analysis
 
 
 ## Datasets
