@@ -29,7 +29,6 @@ All datasets can be downloaded at:  [Google Drive](https://drive.google.com/driv
 
 2. Stress:  Here we record users resting-state EEG for 10 seconds, in which the label is either subjects suffering from chronic stress or not.  This label was acquired through some clinical stress questionnaires.  Here I shall demonstrate how to use frequency-based analysis to understand stress and non-stressed subjects.
 
-3. SSVEP (TBD)
+3. SSVEP:  Here we record users looking at three different circles flickering at 6, 10, and 15Hz respectively.  We will be classifying the signals using filterbank canonical correlation analysis.
 
-4. Motor Imagery (TBD)
-
+4. Motor Imagery: Here we record one user performing imagined left and right movements.  We shall explore event-related desynchronization, common-spatial pattern, and long short-term memory for decoding the classes.
