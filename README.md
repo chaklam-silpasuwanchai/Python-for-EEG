@@ -6,12 +6,12 @@ Here is a simple repository in which I demonstrate basic analysis on EEG signal.
 
 **Time-Based** [Datasets:  P300 signal]
 
-1. 1-dimensional convolution
+1. Event-related potentials and 1-dimensional convolution
 2. Long short-term memory
 
 **Frequency-Based** [Datasets:  DEAP and SSVEP]
 
-3. Alpha asymmetry
+3. Spectral analysis and alpha asymmetry
 4. Canonical correlation analysis
 
 **Component-Based** [Datasets:  Motor Imagery]
