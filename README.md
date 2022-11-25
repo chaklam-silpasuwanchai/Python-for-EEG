@@ -2,7 +2,7 @@
 
 *Note:  On progress.   Don't fork yet.  Once I have time, I will complete this for good, and will leave this note.*
 
-Here is a simple repository in which I demonstrate how to perform DL modeling on EEG signal.  Topics covered:
+Here is a simple repository in which I demonstrate how to perform modeling on EEG signal.  Topics covered:
 
 ## Topics
 
@@ -18,7 +18,7 @@ Here is a simple repository in which I demonstrate how to perform DL modeling on
 
 **Component-Based** [Datasets:  Motor Imagery]
 
-5. Common spatial pattern analysis (coming soon)
+1. Event-related desynchronization (done)
 
 
 ## Datasets
@@ -31,4 +31,4 @@ All datasets can be downloaded at:  [Google Drive](https://drive.google.com/driv
 
 3. SSVEP:  Here we record users looking at three different circles flickering at 6, 10, and 15Hz respectively.  We will be classifying the signals using filterbank canonical correlation analysis.
 
-4. Motor Imagery: Here we record one user performing imagined left and right movements.  We shall explore event-related desynchronization, common-spatial pattern, and long short-term memory for decoding the classes.
+4. Motor Imagery: Here we record one user performing imagined left and right movements.  We shall explore event-related desynchronization for decoding the classes.
