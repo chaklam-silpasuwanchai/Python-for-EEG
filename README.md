@@ -1,6 +1,6 @@
 # Python-For-EEG
 
-Here is a simple repository in which I demonstrate how to perform modeling on EEG signal.  Topics covered:
+Here is a simple repository in which I demonstrate basic analysis on EEG signal.  Topics covered:
 
 ## Topics
 
