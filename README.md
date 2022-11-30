@@ -2,6 +2,8 @@
 
 Here is a simple repository in which I demonstrate basic analysis on EEG signal.  Topics covered:
 
+Credits:  I got help from my Ph.D. student - Mr. Akraradet (https://github.com/akraradets) on asymmetry and my Master student - Mr. Nutapol (https://github.com/nutapol97) on motor imagery.  
+
 ## Topics
 
 **Time-Based** [Datasets:  P300 signal]
